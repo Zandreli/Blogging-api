@@ -38,6 +38,7 @@ POST /users
   "username": "ZandAkain"
 }
 
+```
 ### Sample post
 ```json
 POST /posts
@@ -45,3 +46,4 @@ POST /posts
   "title": "This is my first blog",
   "Content": "Welcome to my first blog, I am happy to have you here"
 }
+
